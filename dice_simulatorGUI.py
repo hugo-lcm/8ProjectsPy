@@ -3,7 +3,7 @@
 import random
 import PySimpleGUI as sg
 
-class DiceSimulator:
+class DiceSimulator: 
     def __init__(self):
         self.min = 1
         self.max = 6
