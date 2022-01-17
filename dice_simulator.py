@@ -1,4 +1,4 @@
-# simulador de dados
+# projeto 1: simulador de dados
 # gera valor de 1 a 6, como um dado comum
 import random
 

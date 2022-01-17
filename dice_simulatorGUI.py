@@ -1,4 +1,4 @@
-# simulador de dados com interface
+# projeto 2: simulador de dados com interface
 # gera valor de 1 a 6, como um dado comum
 import random
 import PySimpleGUI as sg
