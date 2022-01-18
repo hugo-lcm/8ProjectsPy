@@ -15,10 +15,10 @@ class GuessTheNumber:
     def Initialize(self):
         # layout
         layout = [
-            [sg.Text('your guess', size=(20,0))],
+            [sg.Text('your guess', size=(39,0))],
             [sg.Input(size=(18,0), key ='AttemptValue')],
             [sg.Button(('Try!'))],
-            [sg.Output(size=(20,10))]
+            [sg.Output(size=(39,10))]
         ]
         # criar janela
         self.window = sg.Window('guess the number!', layout=layout)
