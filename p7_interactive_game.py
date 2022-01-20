@@ -33,5 +33,3 @@ class AdventureGame:
 
 game = AdventureGame()
 game.Initialize()
-
-# https://youtu.be/7U3-pJZkN-o?t=6895
